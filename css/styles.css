@@ -83,6 +83,7 @@ header{
     line-height: 1.1429;
     letter-spacing: 0.02em;
     font-weight: 500;
+    text-decoration: none;
 }
 .header-link:hover{
     color: var(--color-active);
