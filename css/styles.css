@@ -117,18 +117,21 @@ header{
     line-height: 1.7143;
     letter-spacing: 0.03em;
     font-style: normal;
+    text-decoration: none;
 }
 .footer-link-mail{
     color: rgba(255, 255, 255, 0.6);
     line-height: 1.7143;
     letter-spacing: 0.03em;
     font-style: normal;
+    text-decoration: none;
 }
 .footer-link-telephone{
     color: rgba(255, 255, 255, 0.6);
     line-height: 1.7143;
     letter-spacing: 0.03em;
     font-style: normal;
+    text-decoration: none;
 }
 /* STUDIO --------------------------------------------------------------------------------------------------- */
 /* HERO ------------------------------------------------------------------------------------------------------*/
@@ -294,11 +297,15 @@ header{
     color: var(--color-white);
     background-color: var(--color-active);
     cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 .portfolio-filter-button:hover{
     color: var(--color-white);
     background-color: var(--color-active);
     cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 .portfolio-filter{
     display: flex;
